@@ -12,7 +12,7 @@ Email: sampmolloy@gmail.com
 
 Enjoy!
 
-Dashboards: This is a VALD monitoring dashboard for Track and Field athletes at Duke University. This dashboard includes a quick snapshot of the team countermovement jump (CMJ) metrics of interest as well as individual longitudinal monitoring. I also calculated a Dynamic Strngth Index (DSI) score, a ratio that measures the athletes' elastic CMJ properties compared to their force production during an isometric mid-thigh pull (IMTP).
+Dashboards: This is a Tableau Monitoring Dashboard for my Dissertation participants at University College Dublin. This dashboard includes a quick snapshot of the team countermovement jump (CMJ), metrics of interest, as well as individual monitoring.
 
 Eire Og Under-19 Hurling Season Analysis Project: The OpenBiomechanics Project is open source data provided by Driveline Baseball. I utilized the baseball_pitching point-of-interest csv provided by Driveline to conduct descriptive and exploratory analysis for my personal development of coding and statistical analysis.
 
