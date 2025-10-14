@@ -12,6 +12,8 @@ Email: sampmolloy@gmail.com
 
 Enjoy!
 
+My Master's Degree Dissertation: <a href="dissertation/Dissertation_Smith_2025.pdf" target="_blank">View Dissertation</a>
+
 Dashboards: This is a Tableau Monitoring Dashboard for my Dissertation participants at University College Dublin. This dashboard includes a quick snapshot of the team countermovement jump (CMJ), metrics of interest, as well as individual monitoring.
 
 Eire Og Under-19 Hurling Season Analysis Project: The OpenBiomechanics Project is open source data provided by Driveline Baseball. I utilized the baseball_pitching point-of-interest csv provided by Driveline to conduct descriptive and exploratory analysis for my personal development of coding and statistical analysis.
