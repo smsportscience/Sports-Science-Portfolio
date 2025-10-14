@@ -6,7 +6,7 @@ This portfolio is a collection of video analysis and data analysis projects that
 
 I am open and welcome to constructive feedback as I am willing to learn and grow in this field! If you'd like to connect or have any questions, comments, or concerns please feel free to reach out at any of my contacts below.
 
-[My LinkedIn Profile] (www.linkedin.com/in/sam-molloy-856384204)
+[My LinkedIn Profile](www.linkedin.com/in/sam-molloy-856384204)
 
 Email: sampmolloy@gmail.com
 
